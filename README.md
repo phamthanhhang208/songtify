@@ -5,7 +5,7 @@
 * Date finished (ver 1): 5/11/2019
 ## Features
 * Listen to music
-* Search artists/songs/musics
+* Search artists/songs/albums
 * Playlist: create new/delete playlist, add/remove song
 * Show album,artist info/music
 ## Tech/Framework used
