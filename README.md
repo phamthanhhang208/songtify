@@ -14,5 +14,7 @@
 * XAMPP
 * HTML,CSS
 * Javascript, Jquery
+## Other
+Music file is not included here
 ## Credits
 Pham Thanh Hang
