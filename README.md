@@ -1,7 +1,7 @@
 
 # Spotify clone - Songtify
 * A website based on spotify.com
-* This project is delicated to Project 1 - SIE
+* This project is delicated to Project 1 - SIE - HUST (Instructor : Nguyen Thi Kim Anh)
 * Date finished (ver 1): 5/11/2019
 ## Features
 * Listen to music
